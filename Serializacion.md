@@ -139,4 +139,3 @@
 
 ---
 
-Este esquema en formato de fichas debería ayudarte a entender los conceptos básicos y avanzados de la serialización en Java de manera organizada y fácil de seguir.
