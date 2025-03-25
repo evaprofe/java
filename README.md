@@ -1,7 +1,3 @@
-Claro, puedo ayudarte a convertir el contenido del documento a formato Markdown para que puedas usarlo en un archivo `README.md`. A continuación, te muestro cómo se vería el contenido en Markdown:
-
----
-
 # Ejemplo de escritura y lectura de objetos serializados en un archivo
 
 Este programa demuestra cómo escribir y leer objetos de una clase personalizada en un archivo utilizando la serialización en Java. El programa consta de varias clases y métodos que permiten crear objetos, almacenarlos en un archivo y luego recuperarlos para mostrar su contenido.
