@@ -40,6 +40,4 @@ Este programa demuestra cómo escribir y leer objetos de una clase personalizada
 3. **Leer y mostrar objetos**:
    - Se leen todos los objetos `Persona` almacenados en el archivo `mascotas.dat` y se muestran en la consola.
 
----
 
-Puedes copiar y pegar este contenido en tu archivo `README.md`. Si necesitas algún ajuste adicional, no dudes en decírmelo.
